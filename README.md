@@ -1,6 +1,6 @@
 # ToDo-List-Python-Flask
-Learning Python Flask web application development by making a mini-project ToDo List
-ToDo List Mini-Project
+Learning Python Flask web application development by making a mini-project ToDo List.
+
 This is a simple ToDo List application built using Python-Flask. It allows users to manage their tasks with basic CRUD (Create, Read, Update, Delete) functionality. 
 The application provides a user-friendly interface to add, view, update, and delete tasks.
 
